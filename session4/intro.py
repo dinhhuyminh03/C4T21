@@ -17,8 +17,8 @@ elif month <= 8:
     print("summer")
 elif month <= 10:
     print("autumn")
-# else:
-#     print("winter")
+else:
+    print("winter")
 
 # import random
 # r1 = random.randint(0,100)
